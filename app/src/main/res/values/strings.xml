@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Carefinder</string>
+    <string name="title_activity_maps">Care Finder</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="name">Name</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="county">County</string>
+    <string name="none">None</string>
+</resources>
