@@ -37,11 +37,7 @@ public class NetworkHelper {
      * Base URL of API
      */
     // emulator base url
-//    private static final String BASE_URL = "http://10.0.2.2:3000";
-    // whereAmI base url
-    private static final String BASE_URL = "http://131.210.23.140:3000";
-    // home base url
-//    private static final String BASE_URL = "http://192.168.0.3:3000";
+    private static final String BASE_URL = "http://10.0.2.2:3000";
 
     /**
      * Hospitals Endpoint of API
